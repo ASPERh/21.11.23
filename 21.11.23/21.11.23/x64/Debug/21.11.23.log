@@ -1,0 +1,3 @@
+﻿  21.11.23.cpp
+D:\VisualStudioProjects\21.11.23\21.11.23\21.11.23.cpp(114,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  21.11.23.vcxproj -> D:\VisualStudioProjects\21.11.23\x64\Debug\21.11.23.exe
